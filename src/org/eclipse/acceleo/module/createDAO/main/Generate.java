@@ -69,6 +69,7 @@ public class Generate extends AbstractAcceleoGenerator {
         // Empty implementation
     }
 
+    
     /**
      * This allows clients to instantiates a generator with all required information.
      * 
